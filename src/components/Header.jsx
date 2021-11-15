@@ -132,7 +132,7 @@ class Header extends React.Component {
                         </Button>
                     ) : (
                         <Link to="/users" style={{ textDecoration: "none" }}>
-                            <Button id="btn" onClick="" endIcon={<AccountBalanceIcon />}>
+                            <Button id="btn" onClick="" endIcon={<LoginIcon />}>
                                 {" "}
                                 Oferta Academica{" "}
                             </Button>
