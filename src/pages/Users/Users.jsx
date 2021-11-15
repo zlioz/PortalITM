@@ -1,9 +1,7 @@
 import React, { Component } from "react";
 import "./../../App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-
 import Header from '../../components/Header';
-
 import Footer from "../../components/Footer";
 
 
@@ -18,7 +16,9 @@ class Users extends Component {
             </Header>
             <div className="container"></div>
             listado de ofertas
+            <Footer></Footer>
             </div>                
+            
             )
     }
 }
