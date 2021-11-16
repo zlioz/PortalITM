@@ -1,7 +1,8 @@
-.oferta{
+.oferta { 
     margin-top: 100px;
     width: 100vw;
     display: grid;
     grid-row: 1;
     grid-column: span 6;
     }
+
