@@ -12,13 +12,14 @@ class Users extends Component {
 
         return (<div><Header></Header>
             <div className="container">
-                <div className="Oferta">
-        
+                <div className="oferta">
+
+                    <p>
                     <center><h1>Listado de ofertas Academicas</h1>
                     <h2>Administración Tecnológica</h2>
                     <h4>Duración: 10 semestres</h4>
                     <h4>Sede: Fraternidad</h4></center>
-                               
+                    </p>                    
 
                 </div>
             </div>
