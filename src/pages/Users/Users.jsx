@@ -34,6 +34,46 @@ class Users extends Component {
                         <h4>Sede: Guajira</h4></center>
                 </div>
 
+                <div className="oferta">
+                    <center>
+                        <h2>Cine</h2>
+                        <h4>Duración: 10 semestres</h4>
+                        <h4>Sede: Fraternidad</h4></center>
+                </div>
+
+                <div className="oferta">
+                    <center>
+                        <h2>Ingeniería Biomédica</h2>
+                        <h4>Duración: 10 semestres</h4>
+                        <h4>Sede: Robledo</h4></center>
+                </div>
+
+                <div className="oferta">
+                    <center>
+                        <h2>Ingeniería de la Calidad</h2>
+                        <h4>Duración: 10 semestres</h4>
+                        <h4>Sede: Guajira</h4></center>
+                </div>
+                <div className="oferta">
+                    <center>
+                        <h2>Ingeniería de Producción</h2>
+                        <h4>Duración: 10 semestres</h4>
+                        <h4>Sede: Fraternidad</h4></center>
+                </div>
+
+                <div className="oferta">
+                    <center>
+                        <h2>Ingeniería de Sistemas</h2>
+                        <h4>Duración: 10 semestres</h4>
+                        <h4>Sede: Robledo</h4></center>
+                </div>
+
+                <div className="oferta">
+                    <center>
+                        <h2>Contaduría Pública</h2>
+                        <h4>Duración: 10 semestres</h4>
+                        <h4>Sede: Guajira</h4></center>
+                </div>
 
                 
             </div>
