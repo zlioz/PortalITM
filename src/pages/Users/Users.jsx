@@ -20,13 +20,20 @@ class Users extends Component {
                         <h4>Sede: Fraternidad</h4></center>
                 </div>
 
-                <div className="oferta1">
+                <div className="oferta">
                     <center>
                         <h2>Artes de la Grabación y Producción Musical</h2>
                         <h4>Duración: 10 semestres</h4>
                         <h4>Sede: Robledo</h4></center>
                 </div>
-                
+
+                <div className="oferta">
+                    <center>
+                        <h2>Ciencias Ambientales</h2>
+                        <h4>Duración: 10 semestres</h4>
+                        <h4>Sede: Guajira</h4></center>
+                </div>
+
 
                 
             </div>
