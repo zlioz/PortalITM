@@ -3,7 +3,7 @@ import "./../../App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Header from '../../components/Header';
 import Footer from "../../components/Footer";
-import Users from "../../styles/Users";
+import "../../styles/Users.css"
 
 class Users extends Component {
 
