@@ -12,18 +12,25 @@ class Users extends Component {
 
         return (<div><Header></Header>
             <div className="container">
+                <center><h1>Listado de ofertas Academicas</h1></center>
                 <div className="oferta">
-
-                    
-                    <center><h1>Listado de ofertas Academicas</h1>
-                    <h2>Administración Tecnológica</h2>
-                    <h4>Duración: 10 semestres</h4>
-                    <h4>Sede: Fraternidad</h4></center>
-                                        
-
+                    <center>
+                        <h2>Administración Tecnológica</h2>
+                        <h4>Duración: 10 semestres</h4>
+                        <h4>Sede: Fraternidad</h4></center>
                 </div>
+
+                <div className="oferta1">
+                    <center>
+                        <h2>Artes de la Grabación y Producción Musical</h2>
+                        <h4>Duración: 10 semestres</h4>
+                        <h4>Sede: Robledo</h4></center>
+                </div>
+                
+
+                
             </div>
-            
+
             <Footer></Footer>
         </div>
 

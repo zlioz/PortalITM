@@ -1,7 +1,12 @@
 .oferta { 
     margin-top: 100px;
     width: 100%;
-    display: grid;
-    
+    display: grid;    
 }
 
+.oferta1 { 
+    background-color:rgba(141, 148, 148, 0.938);
+    margin-top: 100px;
+    width: 100%;
+    display: grid;    
+}
